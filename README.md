@@ -10,6 +10,9 @@ this is the first change I've made today
 ...
 
 # this is the second change
-this is the second chnage 
+this is the second chnage -- >> spelling mistake
 
 ...
+
+# this is the second change - corrected
+this is the second change
